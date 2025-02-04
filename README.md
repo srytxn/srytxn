@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity and LAN Security Administration
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me here on Github or on LinkedIn (link will be provided eventually)
+- 📫 How to reach me: Here on Github or on LinkedIn (link will be provided eventually)
 - ⚡ Fun fact: I am really new to the industry but I am a very quick learner.
 
 <!---
